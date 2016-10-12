@@ -1,0 +1,15 @@
+{
+      "text": "PAOK",
+      "quick_replies": [
+        {
+          "content_type":"text",
+          "title":"alli omada",
+          "payload":"anorthosi"
+        },
+        {
+          "content_type":"text",
+          "title":"Paok",
+          "payload":"paok"
+        }
+      ]
+}
