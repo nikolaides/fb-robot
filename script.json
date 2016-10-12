@@ -11,6 +11,9 @@
     "RECRUITERS" : "RECRUITERS.json",
     "BIO" : "BIO.json",
     "HELLO" : "HELLO.json",
+    "football" : "FOOTBALL.json",
+    "ANORTHOSI" : "ANORTHOSI.json",
+    "PAOK" : "PAOK.json",
     "HI" : "HELLO.json",
     "MENU" : "HELLO.json",
     "ROBOT" : "ROBOT.json",
@@ -21,7 +24,7 @@
     "ARCHITECTURE": "ARCHITECTURE.json",
     "BUSINESS": "BUSINESS.json",
     "MARKETING": "MARKETING.json",
-    "SALES1": "SALES.json",
+    "SALES": "SALES.json",
     "SUPPORT": "SUPPORT.json",
     "ADDKEYWORDSTEP2": "ADDKEYWORDSTEP2.json",
     "HTTPS://SCONTENT.XX.FBCDN.NET/T39.1997-6/851557_369239266556155_759568595_N.PNG?_NC_AD=Z-M": "THUMBS.json"

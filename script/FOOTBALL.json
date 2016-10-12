@@ -1,0 +1,15 @@
+{
+      "text": "DIALEKSE TIN OMADA SOU",
+      "quick_replies": [
+        {
+          "content_type":"text",
+          "title":"Anorthosi",
+          "payload":"anorthosi"
+        },
+        {
+          "content_type":"text",
+          "title":"Paok",
+          "payload":"paok"
+        }
+      ]
+}
